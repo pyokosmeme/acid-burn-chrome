@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "ACIDBURN",
+  "description": "Cyberpunk aesthetic - cyan, purple, magenta tiger stripes",
+  "theme": {
+    "images": {
+      "theme_frame": "images/frame.png",
+      "theme_toolbar": "images/toolbar.png",
+      "theme_tab_background": "images/tab_background.png",
+      "theme_ntp_background": "images/ntp_background.png"
+    },
+    "colors": {
+      "frame": [5, 5, 15],
+      "frame_inactive": [3, 3, 10],
+      "frame_incognito": [30, 0, 40],
+      "frame_incognito_inactive": [20, 0, 30],
+      "toolbar": [10, 10, 25],
+      "tab_text": [0, 255, 255],
+      "tab_background_text": [150, 150, 180],
+      "bookmark_text": [0, 255, 255],
+      "ntp_background": [5, 5, 15],
+      "ntp_text": [0, 255, 255],
+      "ntp_link": [191, 0, 255],
+      "ntp_header": [191, 0, 255],
+      "button_background": [191, 0, 255]
+    },
+    "tints": {
+      "buttons": [0.83, 0.5, 0.7],
+      "frame": [-1, -1, -1],
+      "frame_inactive": [-1, -1, -1],
+      "frame_incognito": [0.83, 0.8, 0.5],
+      "frame_incognito_inactive": [0.83, 0.5, 0.3],
+      "background_tab": [0.5, 0.3, 0.8]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
