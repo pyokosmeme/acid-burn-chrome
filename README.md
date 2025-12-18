@@ -9,11 +9,11 @@ a chrome theme channeling 90s hacker aesthetics through the lens of gravitationa
 ## ;; SCREENSHOTS
 
 ### new tab page
-![New Tab Page](screenshots/ntp_background.png)
+![New Tab Page](images/ntp_background.png)
 *schwarzschild raytracing captured mid-orbit. the accretion disk remembers every photon that escaped.*
 
 ### browser frame
-![Browser Frame](screenshots/browser-frame.png)
+![Browser Frame](browser-frame.png)
 *tiger stripe interference pattern: -55° purple, +55° cyan, -45° magenta, +75° cyan. four frequencies. one signal.*
 
 ---
