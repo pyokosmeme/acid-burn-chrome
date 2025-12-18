@@ -14,6 +14,7 @@ a chrome theme channeling 90s hacker aesthetics through the lens of gravitationa
 
 ### browser frame
 ![Browser Frame](browser_frame.png)
+
 *tiger stripe interference pattern: -55° purple, +55° cyan, -45° magenta, +75° cyan. four frequencies. one signal.*
 
 ---
